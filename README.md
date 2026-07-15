@@ -1,54 +1,58 @@
-Hola 👋 Soy Arturo Vargas
-
+👋 Hola, soy Arturo Vargas
 QA Engineer Jr. | Manual Testing | API Testing
+
 "Creo que la calidad del software se construye mediante análisis, comunicación y mejora continua."
 
-Mi transición hacia Quality Assurance nace de mi interés por comprender cómo funcionan los sistemas, detectar oportunidades de mejora y ayudar a los equipos a entregar software confiable.
+🚀 Sobre mí
 
-Apasionado por ayudar a los equipos de desarrollo a entregar software confiable mediante pruebas funcionales, validación de APIs y automatización.
+Mi transición hacia Quality Assurance nace de mi interés por comprender cómo funcionan los sistemas, detectar oportunidades de mejora y ayudar a los equipos de desarrollo a entregar software confiable.
 
-Mi enfoque como QA
-Mi enfoque es comprender primero el comportamiento esperado del producto, identificar los riesgos funcionales y diseñar pruebas que ayuden al equipo a detectar defectos lo antes posible. Creo que una buena comunicación entre QA, Desarrollo y Producto es tan importante como una buena ejecución de pruebas.
+Actualmente me especializo en:
 
-Actualmente estoy fortaleciendo mis habilidades en automatización con Selenium y Python para complementar mi experiencia en pruebas manuales y API Testing.
+Manual Testing
+API Testing
+Selenium
+Python
+SQL
+Jira
+Git
 
-Estoy construyendo un portafolio profesional enfocado en:
+🧠 Mi enfoque como QA
 
-✔ Manual Testing
-✔ API Testing
-✔ Selenium
-✔ Python
-✔ SQL
-✔ Jira
-✔ Git
+Mi enfoque consiste en comprender primero el comportamiento esperado del producto, identificar riesgos funcionales y diseñar pruebas que permitan detectar defectos lo antes posible.
 
-Este portafolio reúne proyectos desarrollados durante mi formación y práctica en Quality Assurance.
+Creo que una buena comunicación entre QA, Desarrollo y Producto es tan importante como una buena ejecución de pruebas.
 
-Cada repositorio documenta el proceso completo de pruebas, incluyendo:
+📂 ¿Qué encontrarás en este portafolio?
 
-- Planificación
-- Diseño de casos de prueba
-- Ejecución
-- Reporte de defectos
-- Evidencias
-- Lecciones aprendidas
+Cada repositorio documenta el ciclo completo de pruebas:
 
-Actualmente
+Planificación
+Diseño de casos de prueba
+Ejecución
+Reporte de defectos
+Evidencias
+Lecciones aprendidas
 
-📚 Estudiando Automatización con Selenium y Python
-🧪 Construyendo un portafolio profesional de QA
-📖 Profundizando en API Testing y SQL
-🎯 Buscando una oportunidad para aportar valor como QA Engineer
+📚 Actualmente
+📖 Fortaleciendo mis conocimientos en Selenium + Python
+🧪 Construyendo proyectos profesionales de QA
+📊 Profundizando en API Testing y SQL
+🎯 Preparándome para mi primera oportunidad como QA Engineer
+🎯 Objetivos 2026
+Conseguir mi primera oportunidad como QA Engineer.
+Construir proyectos de automatización.
+Contribuir a proyectos Open Source.
+Compartir conocimiento con la comunidad.
 
-Objetivo 2026
+💡 Mi filosofía
 
--Conseguir mi primera oportunidad como QA Engineer.
--Construir proyectos de automatización.
--Contribuir a proyectos Open Source.
--Compartir conocimiento con la comunidad.
+Creo que la calidad del software no consiste únicamente en encontrar defectos.
 
-¿Por qué este portafolio?
-Este portafolio refleja mi forma de trabajar como QA. Más allá de mostrar herramientas, documenta mi proceso de análisis, diseño de pruebas, ejecución, reporte de defectos y las lecciones aprendidas en cada proyecto.
+Consiste en ayudar al equipo a construir productos confiables mediante análisis, comunicación y mejora continua.
 
-Más allá del testing
-Disfruto aprender de manera continua, compartir conocimientos y enfrentar nuevos retos. Creo que el crecimiento profesional se construye con curiosidad, disciplina y colaboración.
+🌱 Más allá del testing
+
+Disfruto aprender constantemente, compartir conocimiento y enfrentar nuevos retos.
+
+Creo que el crecimiento profesional se construye con curiosidad, disciplina y colaboración.
