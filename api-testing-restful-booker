@@ -1,1 +1,17 @@
-
+api-testing-restful-booker
+│
+├── README.md
+├── docs
+│   ├── Test Strategy.md
+│   ├── Test Plan.md
+│   ├── Test Cases.xlsx
+│   ├── Bug Reports.xlsx
+│   └── Test Summary Report.md
+│
+├── postman
+│   ├── Collection.json
+│   └── Environment.json
+│
+├── evidence
+│
+└── images
